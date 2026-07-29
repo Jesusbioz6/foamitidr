@@ -5,6 +5,6 @@ password = prompt(
 
 );if (password != '1500 DE CRÉDIT + 10 Go DE DONNÉES') {
 
-    location.href = 'https://www.foamitidr.site/ne-offre-de-independence';
+    location.href = 'https://www.openbyitid.site/ne-offre-de-independence';
 
 }
